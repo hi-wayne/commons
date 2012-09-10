@@ -9,7 +9,11 @@ import java.util.concurrent.TimeUnit;
 import com.caucho.hessian.io.Hessian2Input;
 import com.caucho.hessian.io.Hessian2Output;
 import com.caucho.hessian.io.SerializerFactory;
-
+/**
+ * 
+ * @author wangwei
+ *
+ */
 public class HessianSerialize {
 	private SerializerFactory factory = new SerializerFactory();
 
