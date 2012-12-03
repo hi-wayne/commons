@@ -1,4 +1,4 @@
-package com.viei.commons.date;
+package com.hiwayne.commons.date;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

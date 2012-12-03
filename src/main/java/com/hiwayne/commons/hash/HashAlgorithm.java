@@ -1,11 +1,11 @@
-package com.viei.commons.hash;
+package com.hiwayne.commons.hash;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.zip.CRC32;
 
-import com.viei.commons.ByteUtils;
+import com.hiwayne.commons.ByteUtils;
 
 /**
  * hash算法，推荐使用KETAMA_HASH

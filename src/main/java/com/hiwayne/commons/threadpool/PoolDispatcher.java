@@ -1,4 +1,4 @@
-package com.viei.commons.threadpool;
+package com.hiwayne.commons.threadpool;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.RejectedExecutionHandler;

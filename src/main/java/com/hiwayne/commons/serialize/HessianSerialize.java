@@ -1,4 +1,4 @@
-package com.viei.commons.serialize;
+package com.hiwayne.commons.serialize;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

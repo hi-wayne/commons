@@ -1,4 +1,4 @@
-package com.viei.commons.hash;
+package com.hiwayne.commons.hash;
 
 public class CityHash {
 

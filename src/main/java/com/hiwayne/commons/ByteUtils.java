@@ -1,4 +1,4 @@
-package com.viei.commons;
+package com.hiwayne.commons;
  
 import java.io.UnsupportedEncodingException;
 import java.nio.ByteBuffer;

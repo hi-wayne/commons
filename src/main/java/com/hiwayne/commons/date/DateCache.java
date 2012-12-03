@@ -1,4 +1,4 @@
-package com.viei.commons.date;
+package com.hiwayne.commons.date;
 
 import java.util.Date;
 import java.util.concurrent.Executors;

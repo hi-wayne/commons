@@ -1,4 +1,4 @@
-package com.viei.commons;
+package com.hiwayne.commons;
 import java.lang.reflect.Array;
 public class ArrayUtil {
 
